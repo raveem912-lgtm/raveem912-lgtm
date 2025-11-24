@@ -38,6 +38,8 @@ Currently based in the UK and working as a **Project Management Trainee at Fortr
 
 [Hospital Wait Time Reduction](https://github.com/raveem912-lgtm/Hospital-Wait-Time-Reduction)
 
+[Smart Weather – Final Report](https://github.com/raveem912-lgtm/Smart-weather_Final-Report)
+
 ---
 
 ## 📫 Connect with Me  
