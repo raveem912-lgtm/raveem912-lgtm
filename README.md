@@ -34,14 +34,11 @@ Currently based in the UK and working as a **Project Management Trainee at Fortr
 
 ---
 
-## 📂 Featured Projects (More Coming Soon)
-| Project | Description | Tech/Tools |
-|--------|-------------|------------|
-| **AI-Automated PMO Toolkit** | Templates/scripts that automate BRDs, MOMs, RAID logs, and reporting | ChatGPT API, Python, Excel |
-| **Jira Simulation Project** | Sample Jira backlog, sprint board & workflow for PM interviews | Jira, Confluence |
-| **Power BI PM Dashboard** | Progress, milestones, KPIs, risks & resources visualised | Power BI |
-| **MS Project Plan Library** | End-to-end project plans for IT & engineering projects | MS Project |
-| **Lean Six Sigma Process Improvement Case Study** | DMAIC-based improvement with KPIs and ROI | Excel, DMAIC |
+## 📂 Featured Projects
+
+## Repository Link
+You can view the full project here: 
+[Hospital Wait Time Reduction](https://github.com/raveem912-lgtm/Hospital-Wait-Time-Reduction)
 
 ---
 
