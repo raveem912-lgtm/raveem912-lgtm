@@ -36,8 +36,6 @@ Currently based in the UK and working as a **Project Management Trainee at Fortr
 
 ## 📂 Featured Projects
 
-## Repository Link
-You can view the full project here: 
 [Hospital Wait Time Reduction](https://github.com/raveem912-lgtm/Hospital-Wait-Time-Reduction)
 
 ---
